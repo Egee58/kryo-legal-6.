@@ -1,6 +1,5 @@
 ---
 title: Terms of Service
-permalink: /terms.html
 ---
 # Terms of Service – Kryo Video Uploader
 
