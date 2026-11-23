@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+permalink: /privacy.html
+---
 # Privacy Policy – Kryo Video Uploader
 
 **Last updated: November 23, 2026**
