@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-permalink: /privacy.html
 ---
 # Privacy Policy – Kryo Video Uploader
 
